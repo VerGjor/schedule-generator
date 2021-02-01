@@ -1,0 +1,17 @@
+﻿Subject Name,Semester,Has Laboratory Exercises
+Biznis i menadzment,Winter,false
+Voved vo kompjuterski nauki,Winter,true
+Kalkulus,Winter,false
+Profesionalni vestini,Winter,false
+Strukturno programiranje,Winter,true
+Arhitektura i organizacija na kompjuteri,Summer,true
+Diskretna matematika,Summer,false
+Objektno orientirana analiza i dizajn,Summer,false
+Objektno-orientirano programiranje,Summer,true
+Sport i zdravje,Summer,false
+Kalkulus 2,Summer,false
+Kompjuterski komponenti,Summer,false
+Kreativni vestini za resavanje problemi,Summer,true
+Marketing,Summer,false
+Osnovi na web dizajn,Summer,true
+Osnovi na cyber bezbednost,Summer,true

@@ -1,0 +1,51 @@
+.fileUpload{
+    width: 15em;
+    height: 15em;
+    background: url("../../../../repository/images/upload.png") no-repeat center;
+}
+
+.fileUpload:hover{
+    width: 15.1em;
+    height: 15.1em;
+    background: url("../../../../repository/images/upload_hover.png") no-repeat center;
+}
+
+.progress-margin{
+    margin-top: 5em;
+}
+
+.existingData{
+    width: 15em;
+    height: 15em;
+    background: url("../../../../repository/images/existing_data.png") no-repeat center;
+}
+
+.existingData:hover{
+    width: 15.1em;
+    height: 15.1em;
+    background: url("../../../../repository/images/existing_data_hover.png") no-repeat center;
+}
+
+.btn_or{
+    margin-top: 6em;
+}
+
+.teal_color{
+    color: #00AEAE;
+}
+
+.cancelProcess{
+    width: 15em;
+    height: 15em;
+    background: url("../../../../repository/images/cancel.png") no-repeat center;
+}
+
+.cancelProcess:hover{
+    width: 15.1em;
+    height: 15.1em;
+    background: url("../../../../repository/images/cancel_hover.png") no-repeat center;
+}
+
+.image-upload>input {
+    display: none;
+}

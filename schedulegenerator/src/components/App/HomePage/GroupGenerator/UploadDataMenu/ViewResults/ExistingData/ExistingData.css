@@ -1,0 +1,38 @@
+.MTableToolbar-actions-8 button,
+.MuiTableCell-root input,
+.MuiTableCell-root:active,
+.MuiSelect-nativeInput input,
+.MuiInput-input,
+.MuiTablePagination-select div,
+.MTablePaginationInner-root-14 span,
+.MuiTableSortLabel-active,
+.MuiButtonBase-root .MuiIconButton-root .MuiIconButton-sizeSmall span,
+.MuiTableSortLabel-active:after,
+.MuiTableCell-head:hover,
+.MuiIconButton-label,
+.MuiTableRow-root,
+.MuiFormControl-root svg{
+    color: #00AEAE;
+}
+
+button[title='Remove All Selected Users']:first-child > span {
+    color: #FFFFFF;
+}
+
+.MuiToolbar-root{
+    background-color: black;
+}
+
+.MuiInputBase-root div,
+.MTablePaginationInner-root-19 span,
+.MuiInputBase-root div:before,
+.MuiInputBase-root div:after,
+.MuiInput-formControl input,
+.material-icons span,
+.MuiTypography-root{
+    color: white
+}
+
+
+
+

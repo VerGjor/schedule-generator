@@ -1,0 +1,24 @@
+.groups{
+    width: 15em;
+    height: 15em;
+    background: url("../../../repository/images/groups_default.png") no-repeat center;
+}
+
+.groups:hover{
+    width: 15.1em;
+    height: 15.1em;
+    background: url("../../../repository/images/groups_hover.png") no-repeat center;
+}
+
+.schedules{
+    width: 15em;
+    height: 15em;
+    background: url("../../../repository/images/schedule_default.png") no-repeat center;
+}
+
+.schedules:hover{
+    width: 15.1em;
+    height: 15.1em;
+    background: url("../../../repository/images/schedule_hover.png") no-repeat center;
+}
+
